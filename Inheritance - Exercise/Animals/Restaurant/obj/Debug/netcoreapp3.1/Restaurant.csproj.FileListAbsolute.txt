@@ -1,0 +1,14 @@
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.exe
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.json
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.dev.json
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.AssemblyReference.cache
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.genruntimeconfig.cache
