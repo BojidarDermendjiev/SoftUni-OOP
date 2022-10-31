@@ -1,0 +1,14 @@
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.exe
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.deps.json
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.dll
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.pdb
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.csproj.AssemblyReference.cache
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.csproj.CoreCompileInputs.cache
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.dll
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.pdb
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.genruntimeconfig.cache
