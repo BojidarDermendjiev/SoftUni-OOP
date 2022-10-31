@@ -1,0 +1,14 @@
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.AssemblyReference.cache
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfoInputs.cache
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfo.cs
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.CoreCompileInputs.cache
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Zoo\bin\Debug\netcoreapp3.1\Zoo.exe
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Zoo\bin\Debug\netcoreapp3.1\Zoo.deps.json
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.json
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.dev.json
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Zoo\bin\Debug\netcoreapp3.1\Zoo.dll
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Zoo\bin\Debug\netcoreapp3.1\Zoo.pdb
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.dll
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.pdb
+C:\FurMark\CAdvance\C#\Exerice\Inheritance - Exercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.genruntimeconfig.cache
